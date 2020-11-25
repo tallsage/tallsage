@@ -8,11 +8,8 @@
 - ℹ️ I’m looking to collaborate with other content creators
 - 🤖 I'm jr bot and web developer 📱
 - ☠️ 6k hours in dead game ☠️
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/f5e474hrszxe8ugkvnej3ji2k)
-
+  
+  
 ### Connect with me:
 
 
