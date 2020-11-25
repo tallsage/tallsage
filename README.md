@@ -16,10 +16,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="tallsage | YouTube" width="22px" src="https://www.youtube.com/channel/UCU49fthRn7ULQ_SAZz0po7w/featured?view_as=subscriber" />][youtube]
-[<img align="left" alt="tallsage | VK" width="22px" src="https://vk.com/tallsage" />][Vk]
-[<img align="left" alt="tallsage | instagram" width="22px" src="https://www.instagram.com/tallsage/" />][instagram]
-[<img align="left" alt="tallsage | steam" width="22px" src="https://steamcommunity.com/id/tallsagegame/">][steam]
+[<img align="left" alt="tallsage | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
+[<img align="left" alt="tallsage | VK" width="22px" src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG19.png" />][Vk]
+[<img align="left" alt="tallsage | instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="tallsage | steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
 
 <br />
 
@@ -65,7 +65,7 @@
 
 
 
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCU49fthRn7ULQ_SAZz0po7w/featured?view_as=subscriber
 [instagram]: https://www.instagram.com/tallsage/
-[VK]: https://vk.com/tallsage
+[Vk]: https://vk.com/tallsage
 [steam]: https://steamcommunity.com/id/tallsagegame/
