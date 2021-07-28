@@ -7,7 +7,6 @@
 - ⚡ I’m currently learning everything ⚡
 - ℹ️ I’m looking to collaborate with other content creators
 - 🤖 I'm jr bot and web developer 📱
-- ☠️ 6k hours in dead game ☠️
   
   
 ### Connect with me:
